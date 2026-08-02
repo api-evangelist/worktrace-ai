@@ -1,0 +1,26 @@
+generated: '2026-07-21'
+method: searched
+probe: false
+url: https://app.vanta.com/worktrace.ai/trust/qcl3nskv9828t9gnwverf7
+provider: Vanta
+certifications:
+- SOC 2
+- ISO 27001
+- HIPAA
+- GDPR
+evidence:
+- source: https://worktrace.ai/
+  kind: homepage-security-section
+  detail: Homepage "Built on trust, privacy, and security" section links the Vanta
+    trust center and the four framework references (aicpa-cima.com SOC suite,
+    iso.org/standard/27001, hhs.gov/hipaa, commission.europa.eu GDPR). Privacy
+    controls advertised include PII redaction, allowlist/denylist, on-premise
+    deployment, and no productivity tracking.
+- source: https://app.vanta.com/worktrace.ai/trust/qcl3nskv9828t9gnwverf7
+  kind: trust-center
+  detail: Vanta-hosted trust center, HTTP 200 (JavaScript app; content rendered
+    client-side).
+notes: The automated trust-center probe (trust./security. subdomains, /trust,
+  /security, /compliance paths) found nothing because the trust center is hosted
+  on app.vanta.com and worktrace.ai/security returns 404; the Vanta link is
+  published from the homepage footer/security section.

@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+source: https://worktrace.ai/
+standards:
+- id: soc2
+  conforms: true
+  evidence: Homepage security section links the AICPA SOC suite reference alongside
+    the company's Vanta trust center (app.vanta.com/worktrace.ai/trust/...).
+- id: iso27001
+  conforms: true
+  evidence: Homepage security section links iso.org/standard/27001 alongside the
+    Vanta trust center.
+- id: hipaa
+  conforms: true
+  evidence: Homepage security section links hhs.gov/hipaa; healthcare is a named
+    target industry.
+- id: gdpr
+  conforms: true
+  evidence: Homepage security section links the European Commission data-protection
+    (GDPR) page.
+- id: oauth2
+  conforms: null
+  evidence: No public API or developer documentation published; cannot assess.
+- id: oidc
+  conforms: null
+  evidence: No public API or developer documentation published; cannot assess.
+notes: Compliance posture is published via the homepage security section and a
+  Vanta-hosted trust center; there is no public API surface, so API-level
+  standards (OAuth2, OIDC, RFC 9457, pagination, idempotency) are not assessable.

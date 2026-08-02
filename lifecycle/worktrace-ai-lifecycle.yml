@@ -1,0 +1,14 @@
+generated: '2026-07-21'
+method: searched
+source: https://status.worktrace.ai/
+status_page: https://status.worktrace.ai/
+status_page_provider: UptimeRobot
+versioning: null
+deprecation: null
+sla: null
+notes: Worktrace AI publishes a public UptimeRobot status page at
+  status.worktrace.ai (HTTP 200, overall-uptime views for 24h/7d/30d/90d). No
+  public API versioning, deprecation policy, or SLA documentation was found --
+  the company publishes no developer docs; the product is a desktop
+  observe/reimagine/automate platform with automation handoff to third-party
+  platforms (n8n, Crew AI, Asteroid).
