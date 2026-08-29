@@ -33,6 +33,9 @@ accessModel:
   method: derived
 image: https://cdn.prod.website-files.com/6a146bfc2ac1abdd32d3d0c7/6a1d7a90568b0069e8145c52_Open%20Graph%20preview%20-%20Welcome%20Page.png
 url: https://raw.githubusercontent.com/api-evangelist/worktrace-ai/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API or developer documentation is published as of July 2026."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
