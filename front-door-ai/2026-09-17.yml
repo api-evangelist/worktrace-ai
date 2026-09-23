@@ -1,0 +1,29 @@
+# Front Door AI Index — worktrace-ai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: worktrace-ai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: worktrace.ai
+  final_host: www.worktrace.ai
+  ownership: own
+  owner: worktrace-ai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 24
+  host_score: 24
+  density: 33.24
+  words: 722
+  tiers:
+    agentic: 0
+    core: 20
+    model: 4
+  ambiguous: 18
+  top_terms:
+    AI: 20
+    automation: 17
+    OpenAI: 3
+    ChatGPT: 1
+    agent: 1
