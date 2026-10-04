@@ -47,7 +47,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Workflow-Automation
+- Workflow Automation
 - Artificial Intelligence
 - Process Intelligence
 - Enterprise
@@ -59,6 +59,7 @@ tags_raw:
 - Process Intelligence
 - Enterprise
 - Agents
+- Workflow-Automation
 apis: []
 maintainers:
 - FN: Kin Lane
